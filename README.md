@@ -1,2 +1,2 @@
 # gpt-shadow-writer
-GPT-Shadow-Writer is a chatgpt plugin gives abiliaty to chatgpt inself assistting the novel writing.
+GPT-Shadow-Writer is a chatgpt plugin that gives chatgpt the ability to assist in the novel's writing.
